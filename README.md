@@ -34,6 +34,10 @@ curl -o info.sh https://raw.githubusercontent.com/btcalchemyfinance/Tools/refs/h
 ```bash
 curl -O https://raw.githubusercontent.com/btcalchemyfinance/aios_sh/refs/heads/main/aios.sh && chmod +x aios.sh && ./aios.sh
 ```
+```bash
+# GPU版本
+curl -O https://raw.githubusercontent.com/btcalchemyfinance/aios_sh/refs/heads/main/aios_gpu.sh && chmod +x aios_gpu.sh && ./aios_gpu.sh
+```
 
 - 根据提示输入私钥
 
